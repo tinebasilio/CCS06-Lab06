@@ -37,7 +37,7 @@ $pieces = [
     width: 80px;
     height: 80px;
     background-color: #999;
-      font-size:50px;
+    font-size:50px;
     text-align:center;
     display: table-cell;
     vertical-align:middle;
